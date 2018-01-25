@@ -1,17 +1,6 @@
-## Hello
+# Trying Stuff!!!
 
-This is markdown. But we can make a better editor.
-
-## Instructions
-
-Make the tests pass.
-
-### Part 1: Do Some Stuff
-
-<textarea col="80" row="5"></textarea>
-
-<input type="submit">
-
+<iframe src="https://hub.mybinder.org/user/jakevdp-pythond-sciencehandbook-s1ljuyck/notebooks/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb"></iframe>
 
 ## Resources
 
