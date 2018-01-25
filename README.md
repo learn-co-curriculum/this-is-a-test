@@ -1,6 +1,6 @@
 # Trying Stuff!!!
 
-<iframe src="https://hub.mybinder.org/user/jakevdp-pythond-sciencehandbook-s1ljuyck/notebooks/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb"></iframe>
+<iframe src="http://localhost:8888/notebooks/Calculating%20Distance.ipynb"></iframe>
 
 ## Resources
 
